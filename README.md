@@ -1,6 +1,12 @@
 # Sales-Insights-Tableau
 
+PROFIT ANALYSIS
+![Dashboard-profit analysis](https://github.com/user-attachments/assets/98ca17c1-6665-48ca-9745-b4185b1e43b7)
+
+
 # Revenue Analysis
+![sales Insights revenue ](https://github.com/user-attachments/assets/41748690-57d4-4a6d-b7c2-2119a796014b)
+
 
 SQL database dump is in db_dump.sql file above. Download db_revenue.sql file
 
